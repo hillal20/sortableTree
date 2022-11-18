@@ -6,7 +6,7 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-dropzone": "^10.1.10",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "react-sortable-tree": "^2.6.2",
     "react-sortable-tree-theme-full-node-drag": "^1.1.0",
     "rxjs": "^6.5.3"
